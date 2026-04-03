@@ -1,0 +1,514 @@
+{
+    "grupo_id": "2026_03",
+    "grupo_nombre": "Marzo - Abril 2026",
+    "semanas": [
+        {
+            "semana": "2-8 DE MARZO",
+            "lectura": "ISAÍAS 41, 42",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 8",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 19",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 110",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. “No tengas miedo”",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Empiece conversaciones",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Explique sus creencias",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "7. El sábado 7 de marzo comienza la campaña de la Conmemoración",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Logros de la organización para el mes de marzo",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "9. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "9-15 DE MARZO",
+            "lectura": "ISAÍAS 43, 44",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 63",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 69",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 137",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. Una profecía escrita dos siglos antes de su cumplimiento",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "1"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "7. Haga revisitas",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Necesidades de la congregación",
+                    "minutos": "15"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "9. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "16-22 DE MARZO",
+            "lectura": "ISAÍAS 45-47",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 2",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 38",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 148",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. “Yo soy Dios, y no hay nadie como yo”",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Haga revisitas",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Haga discípulos",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "7. Jehová es el único que siempre nos puede ayudar",
+                    "minutos": "7"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. 2026 | Informe sobre la actividad del Departamento Local de Diseño y Construcción",
+                    "minutos": "8"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "9. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "23-29 DE MARZO",
+            "lectura": "ISAÍAS 48, 49",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 89",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 107",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 134",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. Si le prestamos atención a Jehová, nos irá bien",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Haga revisitas",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Haga revisitas",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "7. Aproveche bien el día más importante del año",
+                    "minutos": "15"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "6-12 DE ABRIL",
+            "lectura": "ISAÍAS 50, 51",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 88",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 99",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 13",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. Escuchemos al que fue instruido por Dios",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Haga revisitas",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Explique sus creencias",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "7. Necesidades de la congregación",
+                    "minutos": "15"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "13-19 DE ABRIL",
+            "lectura": "ISAÍAS 52, 53",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 18",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 20",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 57",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. ¡Cuánto amor mostró Jesús!",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Haga revisitas",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "7. Hazte amigo de Jehová: El mejor regalo que te dio Jehová",
+                    "minutos": "15"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "20-26 DE ABRIL",
+            "lectura": "ISAÍAS 54, 55",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 86",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 97",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 70",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. ¿Cuánto está dispuesto a invertir?",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "2"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Empiece conversaciones",
+                    "minutos": "2"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Haga revisitas",
+                    "minutos": "2"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "7. Discurso",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Que ningún obstáculo le impida tener su estudio personal",
+                    "minutos": "15"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "9. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        },
+        {
+            "semana": "27 DE ABRIL A 3 DE MAYO",
+            "lectura": "ISAÍAS 56, 57",
+            "partes": [
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 12",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 58",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "CANCIONES",
+                    "titulo": "Canción 28",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "1. Felices de tener a Jehová en nuestra vida",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "2. Busquemos perlas escondidas",
+                    "minutos": "10"
+                },
+                {
+                    "seccion": "TESOROS",
+                    "titulo": "3. Lectura de la Biblia",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "4. Empiece conversaciones",
+                    "minutos": "3"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "5. Explique sus creencias",
+                    "minutos": "5"
+                },
+                {
+                    "seccion": "MAESTROS",
+                    "titulo": "6. Haga discípulos",
+                    "minutos": "4"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "7. Nunca deje de hablar de Jehová",
+                    "minutos": "15"
+                },
+                {
+                    "seccion": "VIDA CRISTIANA",
+                    "titulo": "8. Estudio bíblico de la congregación",
+                    "minutos": "30"
+                }
+            ]
+        }
+    ]
+}
